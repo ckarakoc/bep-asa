@@ -1,5 +1,5 @@
 # Bachelor End Project 
-## Interaction with Artificial Social Agents - A study of people's experiences
+## Interaction with Artificial Social Agents - A thematic analysis of people's experiences
 
 | File                                                  | Description                                                                               |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------|
