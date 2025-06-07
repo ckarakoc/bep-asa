@@ -1,0 +1,1502 @@
+{
+  "llama-3.1-8b-instruct": {
+    "Agent's Cognition": {
+      "a": 3,
+      "b": 7,
+      "c": 32,
+      "d": 59,
+      "kappa": -0.02444733420025995,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Coherence": {
+      "a": 6,
+      "b": 4,
+      "c": 35,
+      "d": 56,
+      "kappa": 0.09051027476333401,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Creativeness": {
+      "a": 4,
+      "b": 2,
+      "c": 16,
+      "d": 79,
+      "kappa": 0.238055322715842,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Efficiency": {
+      "a": 6,
+      "b": 1,
+      "c": 41,
+      "d": 53,
+      "kappa": 0.11551292743953272,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Emotional Presence": {
+      "a": 0,
+      "b": 3,
+      "c": 16,
+      "d": 82,
+      "kappa": -0.05266044980800805,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Enjoyability": {
+      "a": 2,
+      "b": 10,
+      "c": 13,
+      "d": 76,
+      "kappa": 0.01858893113645982,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Helpfulness": {
+      "a": 27,
+      "b": 36,
+      "c": 22,
+      "d": 16,
+      "kappa": -0.140132347216816,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Intentionality": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 98,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Interestingness": {
+      "a": 0,
+      "b": 16,
+      "c": 0,
+      "d": 85,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Intuitiveness": {
+      "a": 0,
+      "b": 0,
+      "c": 48,
+      "d": 53,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Limitation": {
+      "a": 0,
+      "b": 2,
+      "c": 8,
+      "d": 91,
+      "kappa": -0.03271983640081874,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Personality": {
+      "a": 0,
+      "b": 6,
+      "c": 5,
+      "d": 90,
+      "kappa": -0.05708848715509001,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Quickness": {
+      "a": 0,
+      "b": 4,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Reliability": {
+      "a": 3,
+      "b": 4,
+      "c": 23,
+      "d": 71,
+      "kappa": 0.08150892556416264,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Sociability": {
+      "a": 0,
+      "b": 6,
+      "c": 1,
+      "d": 94,
+      "kappa": -0.017266187050357623,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Usability": {
+      "a": 11,
+      "b": 20,
+      "c": 15,
+      "d": 55,
+      "kappa": 0.1471652593486128,
+      "interpret(k)": "Slight agreement"
+    },
+    "Attitude": {
+      "a": 0,
+      "b": 25,
+      "c": 0,
+      "d": 76,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Ease of Life": {
+      "a": 0,
+      "b": 2,
+      "c": 33,
+      "d": 66,
+      "kappa": -0.03878930355568618,
+      "interpret(k)": "Poor agreement"
+    },
+    "Emotional Experience": {
+      "a": 9,
+      "b": 39,
+      "c": 13,
+      "d": 40,
+      "kappa": -0.05929810407422358,
+      "interpret(k)": "Poor agreement"
+    },
+    "Human-like Behaviour": {
+      "a": 5,
+      "b": 18,
+      "c": 21,
+      "d": 57,
+      "kappa": -0.04956035171862537,
+      "interpret(k)": "Poor agreement"
+    },
+    "Limitations": {
+      "a": 1,
+      "b": 10,
+      "c": 16,
+      "d": 74,
+      "kappa": -0.07008964955175265,
+      "interpret(k)": "Poor agreement"
+    },
+    "Performance": {
+      "a": 1,
+      "b": 8,
+      "c": 27,
+      "d": 65,
+      "kappa": -0.09341169192700302,
+      "interpret(k)": "Poor agreement"
+    },
+    "Potential": {
+      "a": 1,
+      "b": 6,
+      "c": 10,
+      "d": 84,
+      "kappa": 0.028846153846153792,
+      "interpret(k)": "Slight agreement"
+    },
+    "Productivity": {
+      "a": 0,
+      "b": 5,
+      "c": 16,
+      "d": 80,
+      "kappa": -0.08159102498725085,
+      "interpret(k)": "Poor agreement"
+    },
+    "User Acceptance": {
+      "a": 1,
+      "b": 7,
+      "c": 4,
+      "d": 89,
+      "kappa": 0.09894566098945713,
+      "interpret(k)": "Slight agreement"
+    },
+    "User-Agent Alliance": {
+      "a": 9,
+      "b": 15,
+      "c": 23,
+      "d": 54,
+      "kappa": 0.0684466019417475,
+      "interpret(k)": "Slight agreement"
+    },
+    "User-Agent Interplay": {
+      "a": 0,
+      "b": 4,
+      "c": 4,
+      "d": 93,
+      "kappa": -0.0412371134020613,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Autonomy": {
+      "a": 0,
+      "b": 5,
+      "c": 0,
+      "d": 96,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Emotional Presence": {
+      "a": 0,
+      "b": 11,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Engagement": {
+      "a": 0,
+      "b": 14,
+      "c": 0,
+      "d": 87,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Trust": {
+      "a": 0,
+      "b": 7,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    }
+  },
+  "qwen3-32b": {
+    "Agent's Cognition": {
+      "a": 7,
+      "b": 3,
+      "c": 3,
+      "d": 87,
+      "kappa": 0.6666666666666663,
+      "interpret(k)": "Substantial agreement"
+    },
+    "Agent's Coherence": {
+      "a": 0,
+      "b": 10,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Creativeness": {
+      "a": 0,
+      "b": 6,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Efficiency": {
+      "a": 0,
+      "b": 7,
+      "c": 1,
+      "d": 92,
+      "kappa": -0.017811704834606486,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Emotional Presence": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Enjoyability": {
+      "a": 0,
+      "b": 12,
+      "c": 0,
+      "d": 88,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Helpfulness": {
+      "a": 0,
+      "b": 63,
+      "c": 0,
+      "d": 37,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Intentionality": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Interestingness": {
+      "a": 0,
+      "b": 16,
+      "c": 0,
+      "d": 84,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Intuitiveness": {
+      "a": 0,
+      "b": 0,
+      "c": 0,
+      "d": 100,
+      "kappa": 99,
+      "interpret(k)": "Invalid value"
+    },
+    "Agent's Limitation": {
+      "a": 0,
+      "b": 2,
+      "c": 0,
+      "d": 98,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Personality": {
+      "a": 0,
+      "b": 6,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Quickness": {
+      "a": 0,
+      "b": 4,
+      "c": 0,
+      "d": 96,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Reliability": {
+      "a": 0,
+      "b": 7,
+      "c": 0,
+      "d": 93,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Sociability": {
+      "a": 0,
+      "b": 5,
+      "c": 0,
+      "d": 95,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Usability": {
+      "a": 0,
+      "b": 30,
+      "c": 0,
+      "d": 70,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Attitude": {
+      "a": 7,
+      "b": 18,
+      "c": 13,
+      "d": 62,
+      "kappa": 0.1142857142857138,
+      "interpret(k)": "Slight agreement"
+    },
+    "Ease of Life": {
+      "a": 2,
+      "b": 0,
+      "c": 6,
+      "d": 92,
+      "kappa": 0.3801652892561971,
+      "interpret(k)": "Fair agreement"
+    },
+    "Emotional Experience": {
+      "a": 2,
+      "b": 45,
+      "c": 0,
+      "d": 53,
+      "kappa": 0.044991511035653874,
+      "interpret(k)": "Slight agreement"
+    },
+    "Human-like Behaviour": {
+      "a": 9,
+      "b": 14,
+      "c": 3,
+      "d": 74,
+      "kappa": 0.42333785617367703,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Limitations": {
+      "a": 11,
+      "b": 0,
+      "c": 8,
+      "d": 81,
+      "kappa": 0.6901626646010844,
+      "interpret(k)": "Substantial agreement"
+    },
+    "Performance": {
+      "a": 2,
+      "b": 7,
+      "c": 2,
+      "d": 89,
+      "kappa": 0.2671009771986968,
+      "interpret(k)": "Fair agreement"
+    },
+    "Potential": {
+      "a": 5,
+      "b": 1,
+      "c": 10,
+      "d": 84,
+      "kappa": 0.4270833333333336,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Productivity": {
+      "a": 3,
+      "b": 2,
+      "c": 1,
+      "d": 94,
+      "kappa": 0.6511627906976745,
+      "interpret(k)": "Substantial agreement"
+    },
+    "User Acceptance": {
+      "a": 2,
+      "b": 6,
+      "c": 1,
+      "d": 91,
+      "kappa": 0.3346007604562747,
+      "interpret(k)": "Fair agreement"
+    },
+    "User-Agent Alliance": {
+      "a": 0,
+      "b": 23,
+      "c": 1,
+      "d": 76,
+      "kappa": -0.019541206457094038,
+      "interpret(k)": "Poor agreement"
+    },
+    "User-Agent Interplay": {
+      "a": 0,
+      "b": 4,
+      "c": 0,
+      "d": 96,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Autonomy": {
+      "a": 1,
+      "b": 4,
+      "c": 1,
+      "d": 94,
+      "kappa": 0.2647058823529412,
+      "interpret(k)": "Fair agreement"
+    },
+    "User's Emotional Presence": {
+      "a": 0,
+      "b": 10,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Engagement": {
+      "a": 0,
+      "b": 14,
+      "c": 0,
+      "d": 86,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Trust": {
+      "a": 0,
+      "b": 7,
+      "c": 0,
+      "d": 93,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    }
+  },
+  "deepseek-r1-distill-qwen-32b": {
+    "Agent's Cognition": {
+      "a": 5,
+      "b": 5,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.6428571428571426,
+      "interpret(k)": "Substantial agreement"
+    },
+    "Agent's Coherence": {
+      "a": 2,
+      "b": 8,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.3103448275862072,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Creativeness": {
+      "a": 1,
+      "b": 5,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.2732558139534874,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Efficiency": {
+      "a": 1,
+      "b": 6,
+      "c": 0,
+      "d": 93,
+      "kappa": 0.2366412213740441,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Emotional Presence": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Enjoyability": {
+      "a": 6,
+      "b": 6,
+      "c": 3,
+      "d": 85,
+      "kappa": 0.5222929936305731,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Agent's Helpfulness": {
+      "a": 17,
+      "b": 46,
+      "c": 2,
+      "d": 35,
+      "kappa": 0.17326903203582505,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Intentionality": {
+      "a": 1,
+      "b": 2,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.4923857868020313,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Agent's Interestingness": {
+      "a": 7,
+      "b": 9,
+      "c": 3,
+      "d": 81,
+      "kappa": 0.47368421052631576,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Agent's Intuitiveness": {
+      "a": 0,
+      "b": 0,
+      "c": 0,
+      "d": 100,
+      "kappa": 99,
+      "interpret(k)": "Invalid value"
+    },
+    "Agent's Limitation": {
+      "a": 0,
+      "b": 2,
+      "c": 0,
+      "d": 98,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Personality": {
+      "a": 0,
+      "b": 6,
+      "c": 4,
+      "d": 90,
+      "kappa": -0.05042016806722475,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Quickness": {
+      "a": 3,
+      "b": 1,
+      "c": 1,
+      "d": 95,
+      "kappa": 0.739583333333333,
+      "interpret(k)": "Substantial agreement"
+    },
+    "Agent's Reliability": {
+      "a": 1,
+      "b": 6,
+      "c": 0,
+      "d": 93,
+      "kappa": 0.2366412213740441,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Sociability": {
+      "a": 2,
+      "b": 3,
+      "c": 1,
+      "d": 94,
+      "kappa": 0.4805194805194805,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Agent's Usability": {
+      "a": 11,
+      "b": 19,
+      "c": 3,
+      "d": 67,
+      "kappa": 0.3820224719101124,
+      "interpret(k)": "Fair agreement"
+    },
+    "Attitude": {
+      "a": 7,
+      "b": 18,
+      "c": 6,
+      "d": 69,
+      "kappa": 0.23809523809523828,
+      "interpret(k)": "Fair agreement"
+    },
+    "Ease of Life": {
+      "a": 2,
+      "b": 0,
+      "c": 4,
+      "d": 94,
+      "kappa": 0.4845360824742271,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Emotional Experience": {
+      "a": 0,
+      "b": 47,
+      "c": 0,
+      "d": 53,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Human-like Behaviour": {
+      "a": 3,
+      "b": 20,
+      "c": 0,
+      "d": 77,
+      "kappa": 0.1876523151909018,
+      "interpret(k)": "Slight agreement"
+    },
+    "Limitations": {
+      "a": 9,
+      "b": 2,
+      "c": 8,
+      "d": 81,
+      "kappa": 0.5877988458367683,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Performance": {
+      "a": 1,
+      "b": 8,
+      "c": 11,
+      "d": 80,
+      "kappa": -0.00849256900212339,
+      "interpret(k)": "Poor agreement"
+    },
+    "Potential": {
+      "a": 2,
+      "b": 4,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.4845360824742271,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Productivity": {
+      "a": 3,
+      "b": 2,
+      "c": 3,
+      "d": 92,
+      "kappa": 0.5192307692307693,
+      "interpret(k)": "Moderate agreement"
+    },
+    "User Acceptance": {
+      "a": 0,
+      "b": 8,
+      "c": 1,
+      "d": 91,
+      "kappa": -0.018099547511312753,
+      "interpret(k)": "Poor agreement"
+    },
+    "User-Agent Alliance": {
+      "a": 0,
+      "b": 23,
+      "c": 0,
+      "d": 77,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User-Agent Interplay": {
+      "a": 0,
+      "b": 4,
+      "c": 0,
+      "d": 96,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Autonomy": {
+      "a": 0,
+      "b": 5,
+      "c": 1,
+      "d": 94,
+      "kappa": -0.01694915254237288,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Emotional Presence": {
+      "a": 1,
+      "b": 9,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.16666666666666685,
+      "interpret(k)": "Slight agreement"
+    },
+    "User's Engagement": {
+      "a": 0,
+      "b": 14,
+      "c": 0,
+      "d": 86,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Trust": {
+      "a": 4,
+      "b": 3,
+      "c": 1,
+      "d": 92,
+      "kappa": 0.6460176991150443,
+      "interpret(k)": "Substantial agreement"
+    }
+  },
+  "phi-4": {
+    "Agent's Cognition": {
+      "a": 5,
+      "b": 5,
+      "c": 5,
+      "d": 85,
+      "kappa": 0.44444444444444436,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Agent's Coherence": {
+      "a": 2,
+      "b": 8,
+      "c": 4,
+      "d": 86,
+      "kappa": 0.18918918918918934,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Creativeness": {
+      "a": 2,
+      "b": 4,
+      "c": 5,
+      "d": 89,
+      "kappa": 0.2598684210526321,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Efficiency": {
+      "a": 0,
+      "b": 7,
+      "c": 4,
+      "d": 89,
+      "kappa": -0.05363984674329553,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Emotional Presence": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Enjoyability": {
+      "a": 3,
+      "b": 9,
+      "c": 2,
+      "d": 86,
+      "kappa": 0.3037974683544306,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Helpfulness": {
+      "a": 18,
+      "b": 45,
+      "c": 1,
+      "d": 36,
+      "kappa": 0.20771615570099902,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Intentionality": {
+      "a": 0,
+      "b": 3,
+      "c": 3,
+      "d": 94,
+      "kappa": -0.030927835051546785,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Interestingness": {
+      "a": 0,
+      "b": 16,
+      "c": 0,
+      "d": 84,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Intuitiveness": {
+      "a": 0,
+      "b": 0,
+      "c": 2,
+      "d": 98,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Limitation": {
+      "a": 0,
+      "b": 2,
+      "c": 5,
+      "d": 93,
+      "kappa": -0.029411764705880722,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Personality": {
+      "a": 0,
+      "b": 6,
+      "c": 1,
+      "d": 93,
+      "kappa": -0.01744186046511598,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Quickness": {
+      "a": 1,
+      "b": 3,
+      "c": 4,
+      "d": 92,
+      "kappa": 0.18604651162790828,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Reliability": {
+      "a": 0,
+      "b": 7,
+      "c": 1,
+      "d": 92,
+      "kappa": -0.017811704834606486,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Sociability": {
+      "a": 0,
+      "b": 5,
+      "c": 0,
+      "d": 95,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Usability": {
+      "a": 2,
+      "b": 28,
+      "c": 2,
+      "d": 68,
+      "kappa": 0.0506329113924051,
+      "interpret(k)": "Slight agreement"
+    },
+    "Attitude": {
+      "a": 3,
+      "b": 22,
+      "c": 7,
+      "d": 68,
+      "kappa": 0.033333333333333,
+      "interpret(k)": "Slight agreement"
+    },
+    "Ease of Life": {
+      "a": 1,
+      "b": 1,
+      "c": 9,
+      "d": 89,
+      "kappa": 0.13793103448275876,
+      "interpret(k)": "Slight agreement"
+    },
+    "Emotional Experience": {
+      "a": 6,
+      "b": 41,
+      "c": 1,
+      "d": 52,
+      "kappa": 0.11429776465626301,
+      "interpret(k)": "Slight agreement"
+    },
+    "Human-like Behaviour": {
+      "a": 9,
+      "b": 14,
+      "c": 3,
+      "d": 74,
+      "kappa": 0.42333785617367703,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Limitations": {
+      "a": 5,
+      "b": 6,
+      "c": 3,
+      "d": 86,
+      "kappa": 0.47795823665893256,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Performance": {
+      "a": 0,
+      "b": 9,
+      "c": 7,
+      "d": 84,
+      "kappa": -0.08548168249660826,
+      "interpret(k)": "Poor agreement"
+    },
+    "Potential": {
+      "a": 2,
+      "b": 4,
+      "c": 1,
+      "d": 93,
+      "kappa": 0.421296296296296,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Productivity": {
+      "a": 3,
+      "b": 2,
+      "c": 3,
+      "d": 92,
+      "kappa": 0.5192307692307693,
+      "interpret(k)": "Moderate agreement"
+    },
+    "User Acceptance": {
+      "a": 2,
+      "b": 6,
+      "c": 3,
+      "d": 89,
+      "kappa": 0.26229508196721335,
+      "interpret(k)": "Fair agreement"
+    },
+    "User-Agent Alliance": {
+      "a": 0,
+      "b": 23,
+      "c": 1,
+      "d": 76,
+      "kappa": -0.019541206457094038,
+      "interpret(k)": "Poor agreement"
+    },
+    "User-Agent Interplay": {
+      "a": 0,
+      "b": 4,
+      "c": 3,
+      "d": 93,
+      "kappa": -0.03550295857987933,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Autonomy": {
+      "a": 1,
+      "b": 4,
+      "c": 2,
+      "d": 93,
+      "kappa": 0.22077922077922077,
+      "interpret(k)": "Fair agreement"
+    },
+    "User's Emotional Presence": {
+      "a": 1,
+      "b": 9,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.16666666666666685,
+      "interpret(k)": "Slight agreement"
+    },
+    "User's Engagement": {
+      "a": 1,
+      "b": 13,
+      "c": 0,
+      "d": 86,
+      "kappa": 0.11684782608695714,
+      "interpret(k)": "Slight agreement"
+    },
+    "User's Trust": {
+      "a": 1,
+      "b": 6,
+      "c": 0,
+      "d": 93,
+      "kappa": 0.2366412213740441,
+      "interpret(k)": "Fair agreement"
+    }
+  },
+  "gemma-3-12b": {
+    "Agent's Cognition": {
+      "a": 3,
+      "b": 7,
+      "c": 2,
+      "d": 88,
+      "kappa": 0.35714285714285743,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Coherence": {
+      "a": 1,
+      "b": 9,
+      "c": 0,
+      "d": 90,
+      "kappa": 0.16666666666666685,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Creativeness": {
+      "a": 2,
+      "b": 4,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.4845360824742271,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Agent's Efficiency": {
+      "a": 1,
+      "b": 6,
+      "c": 2,
+      "d": 91,
+      "kappa": 0.1649269311064722,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Emotional Presence": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Enjoyability": {
+      "a": 0,
+      "b": 12,
+      "c": 0,
+      "d": 88,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Helpfulness": {
+      "a": 8,
+      "b": 55,
+      "c": 2,
+      "d": 35,
+      "kappa": 0.05629139072847678,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Intentionality": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 97,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Interestingness": {
+      "a": 5,
+      "b": 11,
+      "c": 4,
+      "d": 80,
+      "kappa": 0.32188065099457513,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Intuitiveness": {
+      "a": 0,
+      "b": 0,
+      "c": 1,
+      "d": 99,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Limitation": {
+      "a": 0,
+      "b": 2,
+      "c": 3,
+      "d": 95,
+      "kappa": -0.024590163934428096,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Personality": {
+      "a": 1,
+      "b": 5,
+      "c": 1,
+      "d": 93,
+      "kappa": 0.22680412371134065,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Quickness": {
+      "a": 1,
+      "b": 3,
+      "c": 1,
+      "d": 95,
+      "kappa": 0.3150684931506844,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Reliability": {
+      "a": 2,
+      "b": 5,
+      "c": 2,
+      "d": 91,
+      "kappa": 0.3295019157088123,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Sociability": {
+      "a": 0,
+      "b": 5,
+      "c": 0,
+      "d": 95,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Usability": {
+      "a": 0,
+      "b": 30,
+      "c": 0,
+      "d": 70,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Attitude": {
+      "a": 6,
+      "b": 19,
+      "c": 6,
+      "d": 69,
+      "kappa": 0.19354838709677405,
+      "interpret(k)": "Slight agreement"
+    },
+    "Ease of Life": {
+      "a": 1,
+      "b": 1,
+      "c": 16,
+      "d": 82,
+      "kappa": 0.07205240174672538,
+      "interpret(k)": "Slight agreement"
+    },
+    "Emotional Experience": {
+      "a": 3,
+      "b": 44,
+      "c": 1,
+      "d": 52,
+      "kappa": 0.04741744284504652,
+      "interpret(k)": "Slight agreement"
+    },
+    "Human-like Behaviour": {
+      "a": 12,
+      "b": 11,
+      "c": 5,
+      "d": 72,
+      "kappa": 0.502796768178993,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Limitations": {
+      "a": 6,
+      "b": 5,
+      "c": 2,
+      "d": 87,
+      "kappa": 0.5939675174013921,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Performance": {
+      "a": 1,
+      "b": 8,
+      "c": 7,
+      "d": 84,
+      "kappa": 0.03598971722365,
+      "interpret(k)": "Slight agreement"
+    },
+    "Potential": {
+      "a": 5,
+      "b": 1,
+      "c": 2,
+      "d": 92,
+      "kappa": 0.7532894736842104,
+      "interpret(k)": "Substantial agreement"
+    },
+    "Productivity": {
+      "a": 3,
+      "b": 2,
+      "c": 2,
+      "d": 93,
+      "kappa": 0.5789473684210527,
+      "interpret(k)": "Moderate agreement"
+    },
+    "User Acceptance": {
+      "a": 1,
+      "b": 7,
+      "c": 3,
+      "d": 89,
+      "kappa": 0.1197183098591554,
+      "interpret(k)": "Slight agreement"
+    },
+    "User-Agent Alliance": {
+      "a": 0,
+      "b": 23,
+      "c": 0,
+      "d": 77,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "User-Agent Interplay": {
+      "a": 1,
+      "b": 3,
+      "c": 6,
+      "d": 90,
+      "kappa": 0.1379310344827584,
+      "interpret(k)": "Slight agreement"
+    },
+    "User's Autonomy": {
+      "a": 1,
+      "b": 4,
+      "c": 0,
+      "d": 95,
+      "kappa": 0.3220338983050847,
+      "interpret(k)": "Fair agreement"
+    },
+    "User's Emotional Presence": {
+      "a": 0,
+      "b": 10,
+      "c": 2,
+      "d": 88,
+      "kappa": -0.03448275862068969,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Engagement": {
+      "a": 7,
+      "b": 7,
+      "c": 9,
+      "d": 77,
+      "kappa": 0.3730407523510973,
+      "interpret(k)": "Fair agreement"
+    },
+    "User's Trust": {
+      "a": 2,
+      "b": 5,
+      "c": 0,
+      "d": 93,
+      "kappa": 0.4266055045871558,
+      "interpret(k)": "Moderate agreement"
+    }
+  },
+  "mistral-nemo-instruct-2407": {
+    "Agent's Cognition": {
+      "a": 8,
+      "b": 2,
+      "c": 32,
+      "d": 57,
+      "kappa": 0.1889156626506023,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Coherence": {
+      "a": 7,
+      "b": 3,
+      "c": 47,
+      "d": 42,
+      "kappa": 0.058219178082191826,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Creativeness": {
+      "a": 3,
+      "b": 2,
+      "c": 16,
+      "d": 78,
+      "kappa": 0.18481244281793294,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Efficiency": {
+      "a": 2,
+      "b": 5,
+      "c": 25,
+      "d": 67,
+      "kappa": 0.006024096385542472,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Emotional Presence": {
+      "a": 0,
+      "b": 3,
+      "c": 4,
+      "d": 92,
+      "kappa": -0.03587443946188415,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Enjoyability": {
+      "a": 0,
+      "b": 12,
+      "c": 3,
+      "d": 84,
+      "kappa": -0.05095541401273832,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Helpfulness": {
+      "a": 3,
+      "b": 59,
+      "c": 0,
+      "d": 37,
+      "kappa": 0.03661553686293907,
+      "interpret(k)": "Slight agreement"
+    },
+    "Agent's Intentionality": {
+      "a": 0,
+      "b": 3,
+      "c": 0,
+      "d": 96,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Interestingness": {
+      "a": 0,
+      "b": 16,
+      "c": 0,
+      "d": 83,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Intuitiveness": {
+      "a": 0,
+      "b": 0,
+      "c": 0,
+      "d": 99,
+      "kappa": 99,
+      "interpret(k)": "Invalid value"
+    },
+    "Agent's Limitation": {
+      "a": 0,
+      "b": 2,
+      "c": 23,
+      "d": 74,
+      "kappa": -0.03860679815358778,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Personality": {
+      "a": 0,
+      "b": 6,
+      "c": 7,
+      "d": 86,
+      "kappa": -0.06982543640897812,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Quickness": {
+      "a": 1,
+      "b": 3,
+      "c": 0,
+      "d": 95,
+      "kappa": 0.39014373716632467,
+      "interpret(k)": "Fair agreement"
+    },
+    "Agent's Reliability": {
+      "a": 0,
+      "b": 7,
+      "c": 0,
+      "d": 92,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Sociability": {
+      "a": 0,
+      "b": 5,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Agent's Usability": {
+      "a": 7,
+      "b": 23,
+      "c": 14,
+      "d": 55,
+      "kappa": 0.03325415676959616,
+      "interpret(k)": "Slight agreement"
+    },
+    "Attitude": {
+      "a": 4,
+      "b": 21,
+      "c": 14,
+      "d": 60,
+      "kappa": -0.032171581769437005,
+      "interpret(k)": "Poor agreement"
+    },
+    "Ease of Life": {
+      "a": 1,
+      "b": 1,
+      "c": 47,
+      "d": 50,
+      "kappa": 0.0012610340479194335,
+      "interpret(k)": "Slight agreement"
+    },
+    "Emotional Experience": {
+      "a": 0,
+      "b": 47,
+      "c": 0,
+      "d": 52,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    },
+    "Human-like Behaviour": {
+      "a": 11,
+      "b": 12,
+      "c": 21,
+      "d": 55,
+      "kappa": 0.17769947143216724,
+      "interpret(k)": "Slight agreement"
+    },
+    "Limitations": {
+      "a": 7,
+      "b": 3,
+      "c": 10,
+      "d": 79,
+      "kappa": 0.4483497642520363,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Performance": {
+      "a": 5,
+      "b": 4,
+      "c": 33,
+      "d": 57,
+      "kappa": 0.07709750566893454,
+      "interpret(k)": "Slight agreement"
+    },
+    "Potential": {
+      "a": 5,
+      "b": 1,
+      "c": 8,
+      "d": 85,
+      "kappa": 0.4834782608695648,
+      "interpret(k)": "Moderate agreement"
+    },
+    "Productivity": {
+      "a": 5,
+      "b": 0,
+      "c": 22,
+      "d": 72,
+      "kappa": 0.24844720496894393,
+      "interpret(k)": "Fair agreement"
+    },
+    "User Acceptance": {
+      "a": 1,
+      "b": 7,
+      "c": 2,
+      "d": 89,
+      "kappa": 0.14409221902017133,
+      "interpret(k)": "Slight agreement"
+    },
+    "User-Agent Alliance": {
+      "a": 5,
+      "b": 17,
+      "c": 18,
+      "d": 59,
+      "kappa": -0.00638977635782713,
+      "interpret(k)": "Poor agreement"
+    },
+    "User-Agent Interplay": {
+      "a": 2,
+      "b": 2,
+      "c": 44,
+      "d": 51,
+      "kappa": 0.006110868616324636,
+      "interpret(k)": "Slight agreement"
+    },
+    "User's Autonomy": {
+      "a": 1,
+      "b": 4,
+      "c": 0,
+      "d": 94,
+      "kappa": 0.321917808219176,
+      "interpret(k)": "Fair agreement"
+    },
+    "User's Emotional Presence": {
+      "a": 1,
+      "b": 9,
+      "c": 1,
+      "d": 88,
+      "kappa": 0.1376306620209055,
+      "interpret(k)": "Slight agreement"
+    },
+    "User's Engagement": {
+      "a": 0,
+      "b": 14,
+      "c": 1,
+      "d": 84,
+      "kappa": -0.019217570350033953,
+      "interpret(k)": "Poor agreement"
+    },
+    "User's Trust": {
+      "a": 0,
+      "b": 7,
+      "c": 0,
+      "d": 92,
+      "kappa": 0.0,
+      "interpret(k)": "Poor agreement"
+    }
+  }
+}

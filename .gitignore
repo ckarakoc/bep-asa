@@ -1,0 +1,19 @@
+# IntelliJ
+out/
+.idea/
+modules.xml
+*.iml
+*.ipr
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+data/.~lock.data_test.ods\#
+data/.~lock*
+
